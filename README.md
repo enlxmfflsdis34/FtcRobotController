@@ -1,3 +1,7 @@
+# New Repo For Tryout
+
+Made a new repo for tryout which is using RoadRunner method, so you can check out that repo too. (https://github.com/enlxmfflsdis34/Huskeyteers-Tryout-RoadRunner)
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the POWERPLAY (2022-2023) competition season.
